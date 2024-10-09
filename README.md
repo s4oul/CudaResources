@@ -5,6 +5,10 @@ Compiler online : https://cuda.godbolt.org/
 
 ### Nvidia Versions Documentation :
 latest: https://docs.nvidia.com/cuda
+* 12.5.0 - https://docs.nvidia.com/cuda/archive/12.5.0/
+* 12.4.1 - https://docs.nvidia.com/cuda/archive/12.4.1/
+* 12.4.0 - https://docs.nvidia.com/cuda/archive/12.4.0/
+* 12.3.2 - https://docs.nvidia.com/cuda/archive/12.3.2/
 * 12.3.1 - https://docs.nvidia.com/cuda/archive/12.3.1/
 * 12.3.0 - https://docs.nvidia.com/cuda/archive/12.3.0/
 * 12.2.1 - https://docs.nvidia.com/cuda/archive/12.2.1/
